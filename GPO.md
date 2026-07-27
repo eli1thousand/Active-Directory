@@ -20,8 +20,19 @@
 
 <p>Now we will edit this policy. Because this will apply to all users on the network, this will be under User Configuration and policies. </p>
 <img width="535" height="341" alt="Screenshot 2026-07-27 130342" src="https://github.com/user-attachments/assets/dffc7b59-e93e-48f9-834b-45e7aae7b03c" />
+
 <p> Now, Under Policies, we will open the the Administrative Template folder and then Desktop folder. </p>
 <img width="535" height="341" alt="Screenshot 2026-07-27 130923" src="https://github.com/user-attachments/assets/5dcce0cc-ab6e-4d27-8673-9f5e3bd2acdb" />
+
 <p>Within this folder, I will select "Desktop Wallpaper" and then enable configuration. I then set a wallpaper as admin. This shall not be changed by any user.  </p>
 <img width="345" height="341" alt="Screenshot 2026-07-27 133236" src="https://github.com/user-attachments/assets/4a3f9392-fa94-481c-a792-90562574669d" />
 
+<h3>Task: Restrict USB Devices</h3>
+<p>Once again, I will acess Group Policy Management and create a new GPO titled Disable USB Devices. </p>
+<img width="340" height="225" alt="Screenshot 2026-07-27 134439" src="https://github.com/user-attachments/assets/64a26296-a2f7-4f9d-b2db-8999a24e6288" />
+
+<p>This will then be edited. This GPO will be underneath Computer COnfiguration policies. Then we will select Administrative Templates and System. Withiin System, I will find and select Removable Storage Access. </p>
+<img width="345" height="260" alt="Screenshot 2026-07-27 134747" src="https://github.com/user-attachments/assets/b1ef5f3a-79c5-48be-960c-da7e2385b11e" />
+
+<p>I locate "All Removable Storage classes: Deny all access" and enable this feature. </p>
+<img width="687" height="642" alt="Screenshot 2026-07-27 135434" src="https://github.com/user-attachments/assets/2b794507-ae30-416f-b144-30ab3834aca8" />
