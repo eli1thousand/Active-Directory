@@ -10,7 +10,7 @@
   <li>Windows 10</li>
 </ul>
 
-<h3>Task</h3>
+<h3>Task: Restrict Desktop Wallpaer</h3>
 <p>We need to make sure the clients cannot change the wallpaper on their work computers.</p>
 
 <h3>Procedure</h3>
