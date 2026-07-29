@@ -39,11 +39,9 @@
 
 <h3>Task: Account Lockout</h3>
 <p>We return to Group Policy Management where we create and edit another GPO  titled "Account Lockout Policy". However, because this policy affects the domain accounts, this policy will be underneath Default Domain Policy. </p>
+<p>Because this involves authentiaction, this will be a computer configuration policy. Underneath this policy, I will navigate through Windows Settings, Security Settings, Account Policies, and then Account Lockout Policy. </p>
 <img width="455" height="316" alt="Screenshot 2026-07-29 122033" src="https://github.com/user-attachments/assets/ee2bfc65-ccb3-429e-800d-61014af1eeb2" />
 
-
-<p>Because this involves authentiaction, this will be a computer configuration policy. Underneath this policy, I will navigate through Windows Settings, Security Settings, Account Policies, and then Account Lockout Policy. </p>
-<img width="345" height="245" alt="Screenshot 2026-07-27 141349" src="https://github.com/user-attachments/assets/d342f63f-5cc3-4eb9-b3e4-90457c411caf" />
 
 <p>Here, I made the lockout time 10 minutes, the threshold for incorrect passwords 3 attempts, and reset account lockout timer 5 minutes.  </p>
 <img width="200" height="150" alt="Screenshot 2026-07-27 142044" src="https://github.com/user-attachments/assets/ef3df219-24ad-4c91-a734-c0cfd0f0361b" />
