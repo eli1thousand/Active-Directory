@@ -49,5 +49,6 @@
 <p>Now, I shall utilize Command Prompt to force the update using the query gpupdate /force. </p>
 <img width="511" height="335" alt="Screenshot 2026-07-29 123144" src="https://github.com/user-attachments/assets/745aedf6-4179-4197-a761-52c71d381cc8" />
 
-
+<p>Now, if I attempt to login 3 times unsuccessfully, I should be locked out the account. </p>
+<img width="511" height="316" alt="Screenshot 2026-07-29 120110" src="https://github.com/user-attachments/assets/d90a5d17-ff13-4118-9ffa-e896cbc5043c" />
 
