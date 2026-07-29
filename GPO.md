@@ -44,9 +44,7 @@
 
 
 <p>Here, I made the lockout time 10 minutes, the threshold for incorrect passwords 3 attempts, and reset account lockout timer 5 minutes.  </p>
-<img width="200" height="150" alt="Screenshot 2026-07-27 142044" src="https://github.com/user-attachments/assets/ef3df219-24ad-4c91-a734-c0cfd0f0361b" />
-<img width="200" height="150" alt="Screenshot 2026-07-27 142224" src="https://github.com/user-attachments/assets/c6d06a93-fd5f-476b-8d90-edf604fc89fb" />
-<img width="200" height="150" alt="Screenshot 2026-07-27 142714" src="https://github.com/user-attachments/assets/58206589-fce3-48d3-a4e3-ebe5847d89c1" />
+<img width="442" height="243" alt="Screenshot 2026-07-29 122925" src="https://github.com/user-attachments/assets/2946cc1a-1ec4-405e-b53e-dada43c93a17" />
 
 
 
