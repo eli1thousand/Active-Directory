@@ -12,3 +12,12 @@
 
 <h3>Task</h3>
 <p>Leather Face once again forgot his password to his work PC. This is a reoccuring issue so Mr. Face may need to be able to change his password to something simple and remomorable. </p>
+<p>To begin, we are going to access Users and Computers</p>
+<img width="425" height="217" alt="image" src="https://github.com/user-attachments/assets/24663b4a-aaab-472c-be40-8d415c578aae" />
+
+<p>Now we are going to locate the user. Leatherface is located under Doctors. Here I will select his user profile and right-click it. u</p>
+<img width="439" height="342" alt="image" src="https://github.com/user-attachments/assets/aa8dae40-5718-4208-8743-6b7590c2f7ef" />
+
+<p>Leatherface is now given a temporary password that will allow him to sign-in and create a new password for his account. </p>
+<img width="432" height="275" alt="image" src="https://github.com/user-attachments/assets/5b608a99-610d-4595-8cab-a71d87a6060c" />
+<img width="432" height="275" alt="Screenshot 2026-07-29 141710" src="https://github.com/user-attachments/assets/d8c59e15-e791-45be-8f12-ae5b1476c465" />
