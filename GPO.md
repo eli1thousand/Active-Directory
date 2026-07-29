@@ -46,6 +46,8 @@
 <p>Here, I made the lockout time 10 minutes, the threshold for incorrect passwords 3 attempts, and reset account lockout timer 5 minutes.  </p>
 <img width="442" height="243" alt="Screenshot 2026-07-29 122925" src="https://github.com/user-attachments/assets/2946cc1a-1ec4-405e-b53e-dada43c93a17" />
 
+<p>Now, I shall utilize Command Prompt to force the update using the query gpupdate /force. </p>
+<img width="511" height="335" alt="Screenshot 2026-07-29 123144" src="https://github.com/user-attachments/assets/745aedf6-4179-4197-a761-52c71d381cc8" />
 
 
 
