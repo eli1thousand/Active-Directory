@@ -38,7 +38,7 @@
 <img width="343" height="321" alt="Screenshot 2026-07-27 135434" src="https://github.com/user-attachments/assets/2b794507-ae30-416f-b144-30ab3834aca8" />
 
 <h3>Task: Account Lockout</h3>
-<p>We return to Group Policy Management where we create and edit another GPO  titled "Account Lockout Policy". </p>
+<p>We return to Group Policy Management where we create and edit another GPO  titled "Account Lockout Policy". However, because this policy affects the domain accounts, this policy will be underneath Default Domain Policy. </p>
 <img width="340" height="260" alt="Screenshot 2026-07-27 141028" src="https://github.com/user-attachments/assets/2f894cd5-5fe1-4422-8067-f0764008e96b" />
 
 <p>Because this involves authentiaction, this will be a computer configuration policy. Underneath this policy, I will navigate through Windows Settings, Security Settings, Account Policies, and then Account Lockout Policy. </p>
@@ -48,5 +48,7 @@
 <img width="200" height="150" alt="Screenshot 2026-07-27 142044" src="https://github.com/user-attachments/assets/ef3df219-24ad-4c91-a734-c0cfd0f0361b" />
 <img width="200" height="150" alt="Screenshot 2026-07-27 142224" src="https://github.com/user-attachments/assets/c6d06a93-fd5f-476b-8d90-edf604fc89fb" />
 <img width="200" height="150" alt="Screenshot 2026-07-27 142714" src="https://github.com/user-attachments/assets/58206589-fce3-48d3-a4e3-ebe5847d89c1" />
+
+
 
 
