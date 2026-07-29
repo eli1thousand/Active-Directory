@@ -40,4 +40,3 @@
 <p>On the Client PC, we are going to log on as the manager of Finance, Donatello. We are going to access File and Explorer. We can see that the map has now been shared with Donatello's PC.</p> 
 <img width="501" height="345" alt="Screenshot 2026-07-10 195212" src="https://github.com/user-attachments/assets/74c662c1-66b6-4c27-bf98-162ba6f6ff52" />
 
-<p> Now, let's see if a user </p>
