@@ -21,3 +21,14 @@
 <p>Leatherface is now given a temporary password that will allow him to sign-in and create a new password for his account. </p>
 <img width="432" height="275" alt="image" src="https://github.com/user-attachments/assets/5b608a99-610d-4595-8cab-a71d87a6060c" />
 <img width="432" height="275" alt="Screenshot 2026-07-29 141710" src="https://github.com/user-attachments/assets/d8c59e15-e791-45be-8f12-ae5b1476c465" />
+
+<h3>PowerShell</h3>
+<p>A more efficient way of resetting passwords is through PowerShell. Utilizing the command Set-ADAccountPassword followed by the name and -Reset. You are able to change and update passwords from the PS Window. Here, we are going to change GhostFace's password. </p>
+<img width="432" height="275" alt="image" src="https://github.com/user-attachments/assets/2d24eb7c-f143-4fdc-8f94-5881d96ac7d1" />
+
+<p>To allow the user to update their password, you will run the command Set-ADUser </p>
+<img width="432" height="275" alt="image" src="https://github.com/user-attachments/assets/54575309-2180-4fc6-8349-85af19d56bf6" />
+<img width="432" height="275" alt="Screenshot 2026-08-03 191848" src="https://github.com/user-attachments/assets/5c516071-b245-463c-8412-f874a923fe5a" />
+
+<p>Ghostface can now log in!</p>
+<img width="967" height="788" alt="Screenshot 2026-08-03 191928" src="https://github.com/user-attachments/assets/e2fa385e-62c6-4769-8d3c-a0b4a94de62b" />
