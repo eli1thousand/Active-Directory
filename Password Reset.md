@@ -31,4 +31,4 @@
 <img width="432" height="275" alt="Screenshot 2026-08-03 191848" src="https://github.com/user-attachments/assets/5c516071-b245-463c-8412-f874a923fe5a" />
 
 <p>Ghostface can now log in!</p>
-<img width="967" height="788" alt="Screenshot 2026-08-03 191928" src="https://github.com/user-attachments/assets/e2fa385e-62c6-4769-8d3c-a0b4a94de62b" />
+<img width="432" height="275" alt="Screenshot 2026-08-03 191928" src="https://github.com/user-attachments/assets/e2fa385e-62c6-4769-8d3c-a0b4a94de62b" />
