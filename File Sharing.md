@@ -22,7 +22,6 @@
 <p>Let us see if a client can access this document once the network path was searched on their machine. </p>
 <img width="444" height="334" alt="image" src="https://github.com/user-attachments/assets/6ae540a8-9224-41df-af80-eba467e27984" />
 <img width="444" height="403" alt="image" src="https://github.com/user-attachments/assets/89db386e-addc-4161-a264-a00d8af573bd" />
-
 <p>Success! The client server can access the document!</p>
 
 
