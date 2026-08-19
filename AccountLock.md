@@ -1,7 +1,7 @@
 <h1>Active Directory: Account Lockout Durations</h1>
 
 <h2>Objective</h2>
-<p>In this lab, I will be utilizing a Virtual Machine sandbox to simulate the tasks and managements of help desk specialist. I will be using Virtual Box, Active Directory, Windows Server 2022, and Windows 10 for this lab. Here, I will be demonstrating password resetting. Here, I act as admin and in instances where a member forgets their password, I simply reset their passwords so they are able to log onto their account.    <p>
+<p>In this lab, I will be utilizing a Virtual Machine sandbox to simulate the tasks and managements of help desk specialist. I will be using Virtual Box, Active Directory, Windows Server 2022, and Windows 10 for this lab. Here, I will be demonstrating account lockout policy usuage. Here, I act as admin and apply a login attempt threshold.    <p>
 <h3>Materials</h3>
 <ul>
   <li>Virtual Box</li>
@@ -11,7 +11,7 @@
 </ul>
 
 <h3>Task</h3>
-<p>We need to make sure no one has access all the time. Configure an account lockout policy.</p>
+<p>We need to make sure a client can attempt login before account lockout. Configure an account lockout policy.</p>
 
 <h4>Procedures</h4>
 <p>First I will locate Account Policies by opening Group Policy Management terminal. Next I will locate and edit Default Domain Policy, Underneath Computer Configuration, I will then select Policies, Window Settings, Security Settings, Account Policy, and finally Account Lockout Policy</p>
