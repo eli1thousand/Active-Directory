@@ -11,3 +11,11 @@
 </ul>
 
 <h3>Task</h3>
+<p>We need to make sure no one has access all the time. Configure an account lockout policy.</p>
+
+<h4>Procedures</h4>
+<p>First I will locate Account Policies by opening Group Policy Management terminal. Next I will locate and edit Default Domain Policy, Underneath Computer Configuration, I will then select Policies, Window Settings, Security Settings, Account Policy, and finally Account Lockout Policy</p>
+<img width="1023" height="652" alt="image" src="https://github.com/user-attachments/assets/c5c2734c-35f3-4dd7-8db7-c073d4e920e3" />
+
+<p>Here I set the account lockout to 1 attempt. </p>
+<img width="1007" height="696" alt="image" src="https://github.com/user-attachments/assets/6e1b1406-11a9-4b6f-82ef-b4de9d21e7e2" />
