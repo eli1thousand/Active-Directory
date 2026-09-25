@@ -4,6 +4,15 @@
 
 <h3> In the following labs, I demonstrated administrative roles and the tasks of a help desk technician by utilizing Windows Server and Active Directory. these tasks include user account and group management, group policy ensuing, and domain joining. The environment I am sandboxing in is modeled after a hospital's directory. </h3>
 
+<h3>Materials</h3>
+<ul>
+  <li>Virtual Box</li>
+  <li>Active Directory</li>
+  <li>Windows Server 2022</li>
+  <li>Windows 10</li>
+</ul>
+
+
 <h2>Labs</h2>
 <h3>User Account and Group Management</h3>
 <ul>
