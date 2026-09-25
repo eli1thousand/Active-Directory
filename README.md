@@ -7,7 +7,7 @@
 <h2>Objectives</h2>
 <h3>Account Management</h3>
 <ul>
-  <li><a href="https://github.com/eli1thousand/Active-Directory/blob/main/GPO.md> User Account Management</a></li>
+  <li><a href="https://github.com/eli1thousand/Active-Directory/blob/main/GPO.md"> User Account Management</a></li>
   <li>Group Policy Management</li>
   <li>Domain Joins</li>
 </ul>   
