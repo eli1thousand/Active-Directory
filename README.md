@@ -5,8 +5,9 @@
 <h3> In this lab, I demonstrated administrative roles and the tasks of a help desk technician by utilizing Windows Server and Active Directory. these tasks include user account and group management, group policy ensuing, and domain joining. The environment I am sandboxing in is modeled after a hospital's directory. </h3>
 
 <h2>Objectives</h2>
+<h3>Account Management</h3>
 <ul>
-  <li>User Account Management</li>
+  <li><a href="https://github.com/eli1thousand/Active-Directory/blob/main/GPO.md> User Account Management</a></li>
   <li>Group Policy Management</li>
   <li>Domain Joins</li>
 </ul>   
