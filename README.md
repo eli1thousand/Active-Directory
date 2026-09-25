@@ -7,7 +7,7 @@
 <h2>Objectives</h2>
 <h3>Account Management</h3>
 <ul>
-  <li><a href="https://github.com/eli1thousand/Active-Directory/blob/main/GPO.md"> User Account Management</a></li>
-  <li>Group Policy Management</li>
+  <li><a href="https://github.com/eli1thousand/Active-Directory/blob/main/GPO.md"> Group Policy </a><h4>- In this lab, I created various group policies for the users within the server. Group policies are basically rules and regulations placed upon memebers of a group. When creating policies it is important </h4></li>
+  <li><a href="Group Policy Management</li>
   <li>Domain Joins</li>
 </ul>   
